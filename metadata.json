@@ -1,0 +1,5 @@
+{
+  "name": "Calculadora de Deslocamento",
+  "description": "Calcula deslocamento e excedentes para cliente",
+  "requestFramePermissions": []
+}
